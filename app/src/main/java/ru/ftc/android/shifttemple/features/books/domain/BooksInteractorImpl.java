@@ -2,7 +2,6 @@ package ru.ftc.android.shifttemple.features.books.domain;
 
 import java.util.List;
 
-import ru.ftc.android.shifttemple.features.books.data.BooksRepository;
 import ru.ftc.android.shifttemple.features.books.domain.model.Book;
 import ru.ftc.android.shifttemple.features.books.domain.model.Success;
 import ru.ftc.android.shifttemple.network.Carry;

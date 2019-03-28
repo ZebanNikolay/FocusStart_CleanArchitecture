@@ -8,6 +8,7 @@ import org.mockito.junit.MockitoJUnitRunner;
 
 import java.util.List;
 
+import ru.ftc.android.shifttemple.features.books.domain.BooksRepository;
 import ru.ftc.android.shifttemple.features.books.domain.model.Book;
 import ru.ftc.android.shifttemple.features.books.domain.model.Success;
 import ru.ftc.android.shifttemple.network.Carry;

@@ -1,4 +1,4 @@
-package ru.ftc.android.shifttemple.features.books.data;
+package ru.ftc.android.shifttemple.features.books.domain;
 
 import java.util.List;
 

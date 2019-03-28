@@ -6,7 +6,7 @@ import ru.ftc.android.shifttemple.App;
 import ru.ftc.android.shifttemple.features.books.data.BooksApi;
 import ru.ftc.android.shifttemple.features.books.data.BooksDataSource;
 import ru.ftc.android.shifttemple.features.books.data.BooksDataSourceImpl;
-import ru.ftc.android.shifttemple.features.books.data.BooksRepository;
+import ru.ftc.android.shifttemple.features.books.domain.BooksRepository;
 import ru.ftc.android.shifttemple.features.books.data.BooksRepositoryImpl;
 import ru.ftc.android.shifttemple.features.books.domain.BooksInteractor;
 import ru.ftc.android.shifttemple.features.books.domain.BooksInteractorImpl;
